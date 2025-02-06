@@ -3,7 +3,7 @@
 layout: post
 title: "My First Blog : How to use Markdown correctly."
 date: 2025-02-06
-categories: [Blog]
+categories: blog
 ---
 这是我的第一篇Blog，为了熟练掌握博客的写法，我打算以“如何正确使用Md格式为”为本首篇博客的主题。
 我使用的编辑器是VS Code ，插件使用的是 Markdown Preview Enhanced 。
