@@ -1,8 +1,7 @@
-@ -1,311 +0,0 @@
 ---
 layout: post
-title: "My First Blog : How to use Markdown correctly."
-date: 2025-02-06
+title:  "My First Blog : How to use Markdown correctly."
+date:   2025-02-06 10:05:22 +0800
 categories: blog
 ---
 这是我的第一篇Blog，为了熟练掌握博客的写法，我打算以“如何正确使用Md格式为”为本首篇博客的主题。
