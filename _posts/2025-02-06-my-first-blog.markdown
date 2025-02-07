@@ -50,7 +50,7 @@ categories: blog
 
 \!\[我们拿Elon举例子](/_posts/pics/pics1/Elon.png "This is Elon!")
 
-![我们拿Elon举例子](_site/pics/pics1/Elon.png "This is Elon!")
+![我们拿Elon举例子](/_posts/pics/pics1/Elon.png "This is Elon!")
 
 注意：对于编辑器上的插件来讲，/_site/pics/pics1/Elon.png的路径，才能正确显示出图片；而对于jekyll构建的效果来讲，得拿/pics/pics1/Elon.png作为路径。
 
